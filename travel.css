@@ -1,0 +1,44 @@
+body{
+    margin:0px;
+    padding:0px;
+    margin-top: 0px;
+  }
+    #section1 h1{
+      background-color: #085252;
+      height:75px;
+      color:#66cfac;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 38px;
+      font-style: oblique;
+      font-weight:lighter;
+      text-shadow: 4px 2px black;
+    
+    }
+    .section2
+    {
+      font-size:medium;
+    }
+    
+    input:hover{
+
+       background-color: #a3fffa;
+    }
+    h1::first-letter{
+      font-size:60px;
+      color:#93eccf;
+    }
+    .second-word{
+      font-size:60px;
+      color:#93eccf;
+    }
+        .third-word{
+      font-size:60px;
+      color:#93eccf;
+    }
+    input::placeholder{
+      color: #044233;
+    }
+   .gradient-style{
+    background-image: linear-gradient(to right,#062219,#06ad76);
+   }
+  
